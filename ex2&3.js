@@ -13,5 +13,5 @@ class Person {
 const brian = new Person('Brian', 32);
 brian.greet();
 
-const jimbob = new Person('Jim Bob, 67')
+const jimbob = new Person('Jim Bob', 67)
 jimbob.greet();  
